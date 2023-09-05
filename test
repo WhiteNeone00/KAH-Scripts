@@ -12,7 +12,7 @@ local blacklistedgears = {
 	"SubspaceTripmine"
 }
 local whitelisted = {
-	"isqrez",
+	"iSqrEZ",
 	"swiiry",
 	"Exprvssed",
 	"nightdeoxys99999", -- 9/26
