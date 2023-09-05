@@ -1935,7 +1935,7 @@ end)
 
 
 
-if game.Players.LocalPlayer.Name == "isqrez" then
+if game.Players.LocalPlayer.Name == "iSqrEZ" then
 	local args = {
 		[1] = "[- Schandal-Ware -], Loaded.OWNER😎 ",
 		[2] = "All"
@@ -1955,8 +1955,8 @@ wait(.95)
 
 
 while wait(10) do
-	if game.Players.LocalPlayer.Name == "isqrez" then
-		game.Players:Chat("h")
+	if game.Players.LocalPlayer.Name == "iSqrEZ" then
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n Server Moderation: True")
 	end
 end
 
