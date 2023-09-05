@@ -233,6 +233,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 5905")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Black [⚫]")
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
@@ -263,7 +264,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		wait(.4)
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color White [⚪]")
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
 				v.Parent = game.Players.LocalPlayer.Character
@@ -292,6 +293,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Orange [🟠]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -323,6 +325,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
 		game.Players:Chat("fogcolor 500 0 0")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Red [🔴]")
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
@@ -355,6 +358,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color L.Blue [💎]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -385,6 +389,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Blue [🔵]")
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
@@ -416,6 +421,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("<lightblue>")
 		wait(.1)
 		game.Players:Chat("colorshifttop 5, 532131231, 532312312")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Fixed [⛩️]")
 
 	end
 
@@ -423,6 +429,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("<black>")
 		wait(.1)
 		game.Players:Chat("fogcolor 500 0 0")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n The Hell [☠️]")
 
 	end
 
@@ -430,6 +437,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Green [🟢]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -460,6 +468,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Purple [🟣]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -490,6 +499,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Yellow [🟡]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -520,6 +530,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
+game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Pink [🟣]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
