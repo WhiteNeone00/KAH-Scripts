@@ -233,7 +233,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 5905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. \n\n Theme by. iSqrEZ \n The Color is Black [⚫]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. Read down \n\n Theme by. iSqrEZ \n The Color is Black [⚫]")
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
