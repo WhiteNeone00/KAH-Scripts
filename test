@@ -1944,14 +1944,14 @@ if game.Players.LocalPlayer.Name == "iSqrEZ" then
 		[2] = "All"
 	}
 	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
-	game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n\n\n\n Loaded with OWNER perms. \n\n  Previously Known as Ryware.Lua😎 \n\n .  gg /Yh W jj 2v 3n   Q  ")
+	game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n\n\n\n Loaded with OWNER perms. \n\n  Previously Known as Hyrenware.Lua😎 \n\n .  gg /Yh W jj 2v 3n   Q  ")
 else
 	local args = {
 		[1] = "[- Schandal-Ware -], Loaded.USER🤓 ",
 		[2] = "All"
 	}
 	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
-	game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n\n\n\n Loaded with USER perms. \n\n  Previously Known as Ryware.Lua😎 \n\n .  gg /Yh W jj 2v 3n   Q  ")
+	game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n\n\n\n Loaded with USER perms. \n\n  Previously Known as Hyrenware.Lua😎 \n\n .  gg /Yh W jj 2v 3n   Q  ")
 end
 
 wait(.95)
@@ -1959,7 +1959,7 @@ wait(.95)
 
 while wait(10) do
 	if game.Players.LocalPlayer.Name == "iSqrEZ" then
-		game.Players:Chat("h \n\n\n\n\n\n [ - Schandal-Ware - ] \n\n A Hight rank user detected \n\n User ID: [ - OWNER - ] iSqrEZ")
+		game.Players:Chat("h \n\n\n\n\n\n [ - Schandal-Ware - ] \n\n Hight rank user detected \n\n User ID: [ - OWNER - ] iSqrEZ")
 	end
 end
 
