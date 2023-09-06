@@ -848,7 +848,6 @@ game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
 game.Players:Chat("respawn all")
 end
 game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by Schandal-Ware \n i Suggest you to join another server.")
-for i = 1,2 do
 	chat("time 4.5")
 	chat("music 0000000000000000000000000000000000000000000000000000006847929757")
 	wait(.25)
