@@ -233,7 +233,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 5905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. Read down \n\n Theme by. iSqrEZ \n The Color is Black [⚫]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is Black [⚫]")
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
@@ -264,7 +264,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color White [⚪]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is White [⚪]")
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
 				v.Parent = game.Players.LocalPlayer.Character
@@ -293,7 +293,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Orange [🟠]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is Orange [🟠]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -325,7 +325,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
 		game.Players:Chat("fogcolor 500 0 0")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Red [🔴]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is Red [🔴]")
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
@@ -358,7 +358,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color L.Blue [💎]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is L.Blue [💎]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -389,7 +389,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Blue [🔵]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is Blue [🔵]")
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
@@ -421,7 +421,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("<lightblue>")
 		wait(.1)
 		game.Players:Chat("colorshifttop 5, 532131231, 532312312")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Fixed [⛩️]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is Black [⛩️]")
 
 	end
 
@@ -429,7 +429,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("<black>")
 		wait(.1)
 		game.Players:Chat("fogcolor 500 0 0")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n The Hell [☠️]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Real HELL [☠️]")
 
 	end
 
@@ -437,7 +437,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Green [🟢]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is Green [🟢]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -468,7 +468,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Purple [🟣]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is Purple [🟣]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -499,7 +499,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Yellow [🟡]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is Yellow [🟡]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -530,7 +530,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Theme List. \n\n Color Pink [🟣]")
+game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n Theme Name/List. BEST! \n\n Theme by. iSqrEZ \n The Color is Pink [🟣]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -776,7 +776,7 @@ end
 
 
 function goodcrash()
-	game.Players:Chat("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n Ryware.lua \n\n ")
+	game.Players:Chat("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n Hyrenware.lua \n\n ")
 	game.Players:Chat("respawn all")
 	game.Players:Chat("respawn all")
 	chat("time -")
@@ -848,6 +848,7 @@ game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
 game.Players:Chat("respawn all")
 end
 game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by Schandal-Ware \n i Suggest you to join another server.")
+for i = 1,2 do
 	chat("time 4.5")
 	chat("music 0000000000000000000000000000000000000000000000000000006847929757")
 	wait(.25)
