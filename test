@@ -858,7 +858,6 @@ end
 
 
 function goodcrash()
-	game.Players:Chat("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n\n\n\n\n\n\n\n\n\n\n Sorry this server is on maintance \n Please  wait until we fix the issue. \n\n ")
 	game.Players:Chat("respawn all")
 	game.Players:Chat("respawn all")
 	chat("time -")
@@ -929,7 +928,6 @@ for i = 1,2 do
 game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by Schandal-Ware \n i Suggest you to join another server.")
 game.Players:Chat("respawn all")
 end
-game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by Schandal-Ware \n i Suggest you to join another server.")
 	chat("music 0000000000000000000000000000000000000000000000000000006847929757")
 	wait(.25)
 	task.spawn(function()
