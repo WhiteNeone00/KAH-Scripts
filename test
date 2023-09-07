@@ -870,7 +870,6 @@ function goodcrash()
 	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 	wait(0.2)
 	for i=1,5 do
-                game.Players:Chat('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n\n\n\n\n\n\n\n\n\n\n Sorry this server is on maintance \n Please  wait until we fix the issue. \n\n ')
 		game.Players:Chat('unsize all')
 		game.Players:Chat('size all .3')
 		game.Players:Chat('size all .3')
@@ -883,7 +882,6 @@ function goodcrash()
 		game.Players:Chat('clone all all all')
 	end
 	for i=1,50 do
-		game.Players:Chat('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n\n\n\n\n\n\n\n\n\n\n Sorry this server is on maintance \n Please  wait until we fix the issue. \n\n ')
 		game.Players:Chat('unsize all')
 		game.Players:Chat('size all .3')
 		game.Players:Chat('size all .3')
@@ -901,7 +899,6 @@ end
 
 
 function silcrash()
-        chat('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n\n\n\n\n\n\n\n\n\n\n Sorry this server is on maintance \n Please  wait until we fix the issue. \n\n ')
 	chat("respawn all")
 	chat("time -")
 	chat("music 000000000000000000000000000000000000006529070845")
@@ -933,8 +930,6 @@ game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
 game.Players:Chat("respawn all")
 end
 game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by Schandal-Ware \n i Suggest you to join another server.")
-	chat('h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by Schandal-Ware \n i Suggest you to join another server.')	
-	chat("time 4.5")
 	chat("music 0000000000000000000000000000000000000000000000000000006847929757")
 	wait(.25)
 	task.spawn(function()
@@ -948,7 +943,6 @@ end
 
 function vgc()
 game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by Schandal-Ware \n i Suggest you to join another server.")
-	chat('h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by Schandal-Ware \n i Suggest you to join another server.')	
 	chat("time -")
 	chat("music 0000000000000000000000000000000000000000000006772846771")
 	local args = {
@@ -1347,7 +1341,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 	-- MUSIC LIST
 
 	local function servernotify(song)
-		chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Music List. \n\n "..song.."🎵")
+		chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - schandal.Lua - ] \n\n\n\n\n Music List. \n\n "Playing: ..song.."🎵")
 	end
 
 	local function music(id)
