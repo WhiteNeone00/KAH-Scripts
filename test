@@ -1245,7 +1245,6 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 
 	-- MUSIC LIST
 
-        while wait(10) do
 	local function servernotify(song)
 		chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - hyrenware.Lua - ] \n\n\n\n\n Music List. \n\n "..song.."🎵")
 	end
