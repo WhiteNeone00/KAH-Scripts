@@ -776,7 +776,7 @@ end
 
 
 function goodcrash()
-	game.Players:Chat("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n Ryware.lua \n\n ")
+	game.Players:Chat("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n Hyrenware.lua \n\n ")
 	game.Players:Chat("respawn all")
 	game.Players:Chat("respawn all")
 	chat("time -")
@@ -1944,7 +1944,7 @@ if game.Players.LocalPlayer.Name == "iSqrEZ" then
 		[2] = "All"
 	}
 	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
-	game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n\n\n\n Loaded with OWNER perms. \n\n  Previously Known as Ryware.Lua😎 \n\n .  gg /Yh W jj 2v 3n   Q  ")
+	game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Schandal-Ware - ] \n\n\n\n\n Loaded with OWNER perms. \n\n  Previously Known as Hyware.Lua😎 \n\n .  gg /Yh W jj 2v 3n   Q  ")
 else
 	local args = {
 		[1] = "[- Schandal-Ware -], Loaded.USER🤓 ",
