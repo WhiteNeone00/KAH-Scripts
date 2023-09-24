@@ -1263,7 +1263,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 	-- MUSIC LIST
 
 	local function servernotify(song)
-		chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - ryware.Lua - ] \n\n\n\n\n Music List. \n\n "..song.."🎵")
+		chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - ryware.Lua - ] \n\n\n\n\n Music List. Spontify.com \n\n Playing "..song.."🎵")
 	end
 
 	local function music(id)
