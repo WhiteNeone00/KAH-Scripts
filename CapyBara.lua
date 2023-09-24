@@ -1962,7 +1962,7 @@ wait(.95)
 
 while wait(10) do
 	if game.Players.LocalPlayer.Name == "iSqrEZ" then
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Vamp-Ware - ] \n\n Server Moderation: True")
+		game.Players:Chat("")
 	end
 end
 
