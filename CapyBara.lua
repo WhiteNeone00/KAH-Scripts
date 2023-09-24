@@ -1,5 +1,5 @@
 perm = true
-script_name = "VampWare-Ware [REVAMPED]"
+script_name = "Vamp-Ware [REVAMPED]"
 script_working = true
 local gearbanned = {}
 local blacklistedgears = {
@@ -124,12 +124,12 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 	if string.sub(msg,1) == getgenv().prefix.."cmds" then
 		game.StarterGui:SetCore("SendNotification",
 			{
-				Title = "VampWare-WARE V2",
+				Title = "VAMP-WARE V2",
 				Text = "Commands Printed In CONSOLE, (F9).",
 				Duration = 9
 			})
 		print("-------------------------------------------------------------- ")	
-		print("VampWare-WARE Commands - ")
+		print("VAMP-WARE Commands - ")
 		print("Here are a Few Features:")
 		print("Info (tells you the info of vampware) NO PREFIX!")
 		print("prefix: logchats , (Log the Chats to a text document).")
@@ -180,7 +180,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		warn("THESE KEYBINDS ARE NOT CHANGEABLE (EXCEPT GUI'S KEYBIND).")
 		warn(", Scroll down in the main page of the GUI.")
 		print("--------------------------------------------------------------")
-		warn("Thank you for using VampWareWare!.")
+		warn("Thank you for using VampWare!.")
 	end
 
 	if string.sub(msg,1) == "info" then
@@ -210,7 +210,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
 		wait(.3)
 		local args = {
-			[1] = "The Creator and Owner of VampWare-Ware is isqrez/karinhama",
+			[1] = "The Creator and Owner of Vamp-Ware is isqrez/karinhama",
 			[2] = "All"
 		}
 		game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
@@ -233,7 +233,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 5905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n Theme Name/List. \n\n Color Black [⚫]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n Theme Name/List. \n\n Color Black [⚫]")
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
@@ -264,7 +264,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n Color White [⚪]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n Color White [⚪]")
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
 				v.Parent = game.Players.LocalPlayer.Character
@@ -293,7 +293,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n Color Orange [🟠]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n Color Orange [🟠]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -325,7 +325,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
 		game.Players:Chat("fogcolor 500 0 0")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n Color Red [🔴]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n Color Red [🔴]")
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
@@ -358,7 +358,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n Color L.Blue [💎]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n Color L.Blue [💎]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -389,7 +389,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n Color Blue [🔵]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n Color Blue [🔵]")
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
 			if v.Name == "PaintBucket" then
@@ -421,7 +421,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("<lightblue>")
 		wait(.1)
 		game.Players:Chat("colorshifttop 5, 532131231, 532312312")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n Color Fixed [⛩️]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n Color Fixed [⛩️]")
 
 	end
 
@@ -429,7 +429,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("<black>")
 		wait(.1)
 		game.Players:Chat("fogcolor 500 0 0")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n The Hell [☠️]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n The Hell [☠️]")
 
 	end
 
@@ -437,7 +437,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n Color Green [🟢]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n Color Green [🟢]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -468,7 +468,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n Color Purple [🟣]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n Color Purple [🟣]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -499,7 +499,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n Color Yellow [🟡]")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n Color Yellow [🟡]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -530,7 +530,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		game.Players:Chat("gear me 18474459")
 		game.Players:Chat("time -")
 		game.Players:Chat("fogend 905")
-game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Theme List. \n\n Color Pink [🟣]")
+game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - vampware.Lua - ] \n\n\n\n\n Theme List. \n\n Color Pink [🟣]")
 
 		wait(.4)
 		for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
@@ -632,7 +632,7 @@ local hasadmin = {}
 
 game.StarterGui:SetCore("SendNotification",
 	{
-		Title = "VampWareWARE V2",
+		Title = "VAMPWARE V2",
 		Text = "Toggle for gui is z",
 		Duration = 6
 	})
@@ -844,10 +844,12 @@ end
 
 function silcrashv3()
 for i = 1,2 do
-game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by VampWare-Ware \n i Suggest you to join another server.")
+game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by VAMP-Ware \n i Suggest you to join another server.")
+wait(.25)
 game.Players:Chat("respawn all")
 end
-game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by VampWare-Ware \n i Suggest you to join another server.")
+game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by VAMPWare-Ware \n i Suggest you to join another server.")
+	wait(.25)
 	chat("time 4.5")
 	chat("music 0000000000000000000000000000000000000000000000000000006847929757")
 	wait(.25)
@@ -861,7 +863,8 @@ game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
 end
 
 function vgc()
-game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by VampWare-Ware \n i Suggest you to join another server.")
+game.Players:Chat("h/    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Server has been Shutdown by Vamp-Ware \n i Suggest you to join another server.")
+	wait(.25)
 	chat("time -")
 	chat("music 0000000000000000000000000000000000000000000006772846771")
 	local args = {
@@ -1025,13 +1028,13 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		wait(.30)
 		antigear = true
 		wait(.20)
-		chat("h \n\n\n\n\n\n\n\n\n\n\n\n [- VampWare-Ware -] \n\n Antigear is now set to True😆")
+		chat("h \n\n\n\n\n\n\n\n\n\n\n\n [- Vamp-Ware -] \n\n Antigear is now set to True😆")
 	end
 
 	if string.sub(msg,1,11) == getgenv().prefix.."unantigear" then
 		antigear = false
 		wait(.20)
-		chat("h \n\n\n\n\n\n\n\n\n\n\n\n [- VampWare-Ware -] \n\n Antigear is disabled😎")
+		chat("h \n\n\n\n\n\n\n\n\n\n\n\n [- Vampe-Ware -] \n\n Antigear is disabled😎")
 	end
 
 
@@ -1134,7 +1137,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 		for _Index, Target in pairs(GetPlayer(args[2])) do
 			table.insert(hasadmin,Target.Name)
 			wait(.2)
-			chat("h \n\n\n\n\n\n\n\n\n\n [- VampWare-Ware -] \n\n "..Target.Name.." Now has admin, \n Say !cmds ")
+			chat("h \n\n\n\n\n\n\n\n\n\n [- Vamp-Ware -] \n\n "..Target.Name.." Now has admin, \n Say !cmds ")
 			for i,v in pairs(game.Players:GetChildren()) do
 				if table.find(hasadmin,v.Name) then
 					v.Chatted:Connect(function(mes)
@@ -1142,7 +1145,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 						local argss = msga:split(" ")
 
 						if mes:match("!cmds") then
-							chat("h \n\n\n\n\n\n\n\n\n\n VampWare-Ware \n\n Cmds: [clr] [slock] [unslock] [slc] [vgc] [house] \n [antigear] [unantigear] [sban [plr] [unban [plr].")			
+							chat("h \n\n\n\n\n\n\n\n\n\n Vampe-Ware \n\n Cmds: [clr] [slock] [unslock] [slc] [vgc] [house] \n [antigear] [unantigear] [sban [plr] [unban [plr].")			
 						end
 						if mes:match("!clr") then
 							chat("fix")
@@ -1260,7 +1263,7 @@ game.Players.LocalPlayer.Chatted:Connect(function(msg)
 	-- MUSIC LIST
 
 	local function servernotify(song)
-		chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare.Lua - ] \n\n\n\n\n Music List. \n\n "..song.."🎵")
+		chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - ryware.Lua - ] \n\n\n\n\n Music List. \n\n "..song.."🎵")
 	end
 
 	local function music(id)
@@ -1752,12 +1755,12 @@ addBtn("Anti - Gear , TOGGLE",function()
 	if antigear	== true then
 		antigear = false
 		wait(.2)
-		chat("h \n\n\n\n\n\n\n\n\n\n\n\n [- VampWare-Ware -] \n\n Antigear is disabled😎")
+		chat("h \n\n\n\n\n\n\n\n\n\n\n\n [- Vamp-Ware -] \n\n Antigear is disabled😎")
 	else
 		game.Players:Chat("ungear all")
 		antigear = true
 		wait(.2)
-		chat("h \n\n\n\n\n\n\n\n\n\n\n\n [- VampWare-Ware -] \n\n Antigear is now set to True😆")
+		chat("h \n\n\n\n\n\n\n\n\n\n\n\n [- Vamp-Ware -] \n\n Antigear is now set to True😆")
 	end
 end)
 
@@ -1940,18 +1943,18 @@ end)
 
 if game.Players.LocalPlayer.Name == "iSqrEZ" then
 	local args = {
-		[1] = "[- VampWare-Ware -], Loaded.OWNER😎 ",
+		[1] = "[- Vamp-Ware -], Loaded.OWNER😎 ",
 		[2] = "All"
 	}
 	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
-	game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare-Ware - ] \n\n\n\n\n Loaded with OWNER perms. \n\n  Previously Known as Ryware.Lua😎 \n\n .  gg /Yh W jj 2v 3n   Q  ")
+	game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Vamp-Ware - ] \n\n\n\n\n Loaded with OWNER perms. \n\n  Previously Known as Ryware.Lua😎 \n\n .  gg /Yh W jj 2v 3n   Q  ")
 else
 	local args = {
-		[1] = "[- VampWare-Ware -], Loaded.USER🤓 ",
+		[1] = "[- Vamp-Ware -], Loaded.USER🤓 ",
 		[2] = "All"
 	}
 	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
-	game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare-Ware - ] \n\n\n\n\n Loaded with USER perms. \n\n  Previously Known as Ryware.Lua😎 \n\n .  gg /Yh W jj 2v 3n   Q  ")
+	game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Vamp-Ware - ] \n\n\n\n\n Loaded with USER perms. \n\n  Previously Known as Ryware.Lua😎 \n\n .  gg /Yh W jj 2v 3n   Q  ")
 end
 
 wait(.95)
@@ -1959,7 +1962,7 @@ wait(.95)
 
 while wait(10) do
 	if game.Players.LocalPlayer.Name == "iSqrEZ" then
-		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - VampWare-Ware - ] \n\n Server Moderation: True")
+		game.Players:Chat("h \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n [ - Vamp-Ware - ] \n\n Server Moderation: True")
 	end
 end
 
@@ -1974,9 +1977,9 @@ game.Players.PlayerAdded:Connect(function(plr)
 
 	if servernotifier then
 		if hasGamepass(plr.UserId, 66254 or 64354) then
-			chat("h \n\n\n\n\n\n\n\n\n\n\n\n VampWare-Ware  -   \n\n "..plr.DisplayName.." Has joined, \n "..plr.DisplayName.." Is a PERM User.")
+			chat("h \n\n\n\n\n\n\n\n\n\n\n\n Vamp-Ware  -   \n\n "..plr.DisplayName.." Has joined, \n "..plr.DisplayName.." Is a PERM User.")
 		else
-			chat("h \n\n\n\n\n\n\n\n\n\n\n\n VampWare-Ware  -   \n\n "..plr.DisplayName.." Has joined, \n "..plr.DisplayName.." Is NOT a PERM User.")
+			chat("h \n\n\n\n\n\n\n\n\n\n\n\n Vamp-Ware  -   \n\n "..plr.DisplayName.." Has joined, \n "..plr.DisplayName.." Is NOT a PERM User.")
 		end
 	end
 end)
