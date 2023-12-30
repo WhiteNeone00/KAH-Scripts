@@ -12,7 +12,7 @@ local blacklistedgears = {
 	"SubspaceTripmine"
 }
 local whitelisted = {
-	"iSqrEZ",
+	"Arda32YT",
 	"swiiry",
 	"Exprvssed",
 	"nightdeoxys99999", -- 9/26
@@ -1941,7 +1941,7 @@ end)
 
 
 
-if game.Players.LocalPlayer.Name == "iSqrEZ" then
+if game.Players.LocalPlayer.Name == "Arda32YT" then
 	local args = {
 		[1] = "[- Vamp-Ware -], Loaded.OWNER😎 ",
 		[2] = "All"
